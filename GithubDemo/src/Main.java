@@ -12,7 +12,8 @@ public class Main {
 		 {
 			 System.out.println("age is above 10");
 		 }
-		  System.out.println("Welcome to github");		
+		  System.out.println("Welcome to github");	
+		  System.out.println("github");
 
 	}
 
